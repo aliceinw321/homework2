@@ -87,7 +87,8 @@ div{
 #yellow h2{
 	color: #000000;
 	text-align:right;
-	text-shadow: #c7e2c7;
+	/*text-shadow: #c7e2c7;*/
+	text-shadow: #4E4E46;
 }
 
 #yellow p{
